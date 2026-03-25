@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="carritoreact.client/carritoreact.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CarritoREACT.Server/CarritoREACT.Server.csproj" />
+</Solution>
